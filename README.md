@@ -1,7 +1,5 @@
 # Predicting_league_of_legends_winner
 
-[Map](https://gamehag.com/img/uploaded/Lci2gbpdudF4PppLvaGAEizERRhVdi.jpg)
-
 <p align="center">
     <center>
     <img src= "https://gamehag.com/img/uploaded/Lci2gbpdudF4PppLvaGAEizERRhVdi.jpg"
