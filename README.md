@@ -36,9 +36,9 @@ ramp-test --submission starting_kit
 ## Members
 
 This work is done in the contexte of data camp for the M2 Data Science École Polytechnique.
-- Abdelghani HARRAD
-- Ahmed MERNISSI
-- Amine ELKARI
-- Mohamed ELFAKIR
-- Marouane NAJID
 - Zakaria ECHCHAIR
+- Ahmed Mernissi
+- Amine ELKARi
+- Marouane NAJID
+- Mohamed EL FAKIR
+- Abdelghani Harrad
