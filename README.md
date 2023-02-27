@@ -1,4 +1,4 @@
-# Predicting_league_of_legends_winner
+# Predicting league of legends winner
 
 <p align="center">
     <center>
